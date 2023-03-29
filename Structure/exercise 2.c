@@ -24,6 +24,7 @@ int main() {
   printf("Name: %s\n", p1.name);
   printf("Citizenship No.: %d\n", p1.citNo);
   printf("Salary: %.2f", p1.salary);
+//     printf("Salary: %.2f", p1.salary);
 
   return 0;
 }
