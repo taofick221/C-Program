@@ -23,7 +23,7 @@ int main() {
   printf("Imaginary Part: %d\n", num1.comp.imag);
   printf("Real Part: %.2f\n", num1.comp.real);
   printf("Integer: %d", num1.integer);
-// 	  printf("Integer: %d", num1.integer);
+
 
   return 0;
 }
